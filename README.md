@@ -1,1 +1,3 @@
 # Genogram
+
+Implementation of a genogram in C++. A genogram is a graphic representation of a family tree that displays detailed data on relationships among individuals. It goes beyond a traditional family tree by allowing the user to analyze hereditary patterns and psychological factors that punctuate relationships. Genograms allow a therapist and his patient to quickly identify and understand various patterns in the patient's family history which may have had an influence on the patient's current state of mind. The genogram maps out relationships and traits that may otherwise be missed on a pedigree chart.
